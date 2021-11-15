@@ -1,0 +1,725 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,400;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Pacifico&family=Poppins:wght@400;500&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.navbar
+{
+    height: 3vw;
+}
+.navbar-nav
+{
+  line-height: 35px;
+  
+}
+.bgcolor
+{
+  background-color: #323232;
+}
+.nav-item
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+   
+   padding-left: 0.7vw;
+   padding-right: 0.7vw;
+   
+}
+.nav-link
+{
+    color:#B6ACAA;
+}
+.nav-link:hover
+{
+    color: white;
+}
+
+.festival
+{
+    background-color: #e4413f;
+    padding: 0.9vw;
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+   font-size: 13px;
+   color: white;
+   margin-bottom: 0;
+}
+.fest-link
+{
+    color: white;
+    text-decoration: none;
+}
+.fest-link:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+.iphone13pro
+{
+    text-decoration: none;
+}
+.iphone13prodiv
+{
+    background-color: #f6f6f8;
+}
+.head1-1
+{
+  text-align: center;
+  padding-top: 3vw;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.head1-2
+{
+  text-align: center;
+  margin-top: -10px ;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  
+  }
+  .head1-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 18px;
+  }
+  .center {
+      margin-top: 3vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height:30vw;
+    border: 0;
+  }
+  .iphone13
+{
+    text-decoration: none;
+    
+}
+.iphone13div
+{
+    background-color: #45364d;
+}
+.head2-1
+{
+  text-align: center;
+  padding-top: 3vw;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.head2-2
+{
+  text-align: center;
+  margin-top: -10px ;
+  color: #E870E2;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  
+  }
+  .head2-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 18px;
+  }
+  .center1 {
+    margin-top: 3vw;
+   
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height:30vw;
+   border-color: #45364d;
+   background-blend-mode: #45364d;
+  
+}
+.appletv
+{
+    text-decoration: none;
+    
+}
+.appletvdiv
+{
+    background-image: url("images/tom-hanks-finch-poster-social-featured.jpeg");
+    background-repeat: no-repeat;
+     background-size: cover;
+     max-width: 100%;
+
+}
+.head3-1
+{
+  text-align: center;
+  padding-top: 20vw;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size:60px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.head3-2
+{
+  text-align: center;
+  margin-top: -10px ;
+  color: white;
+  font-family: 'Hind', sans-serif;
+  font-size: 45px;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+  
+}
+  .head3-3
+{
+    text-align: center;
+    margin-top: -25px ;
+    color: white;
+    font-family: 'Hind', sans-serif;
+    font-size: 25px;
+  
+    
+    
+}
+.head3-4
+{
+    text-align: center;
+    margin-top: -40px ;
+    color: white;
+    font-family: 'Hind', sans-serif;
+    font-size: 100px;
+    letter-spacing: 25px;
+    
+
+    
+    
+}
+.head3-5
+{
+  text-align: center;
+  margin-top: -30px ;
+  padding-bottom: 30px;
+  
+ 
+  
+  }
+
+.head3-5-1
+  {
+      text-decoration: none;
+     
+      font-family: 'Hind', sans-serif;
+      color: white;
+     word-spacing: -3px;
+      font-size: 25px;
+  }
+  .head3-5-1:hover
+  {
+      text-decoration: underline;
+      color: white;
+  }
+  .fa-play-circle
+  {
+      font-size: 20px;
+      color: white;
+  }
+  
+/* cards styling*/
+/* card1 */
+.mackbookpro
+{
+    text-decoration: none;
+}
+.mackbookprodiv
+{
+    background-color: #fafafa;
+}
+.card1-1
+{
+  text-align: center;
+  padding-top: 3vw;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.card1-1-1
+{
+    text-align: center;
+    margin-top: -5px ;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+     
+}
+.card1-2
+{
+  text-align: center;
+  margin-top: -10px;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+  
+  }
+  .card1-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      font-weight: lighter;
+  }
+  .card1center {
+      margin-top: 3vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:30vw;
+    border: 0;
+  }
+/* card2 */
+.homepod
+{
+    text-decoration: none;
+}
+.homepaddiv
+{
+    background-color: #ffffff;
+}
+.card2-1
+{
+  text-align: center;
+  padding-top: 3vw;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.card2-2
+{
+  text-align: center;
+  margin-top: 0px ;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+  
+  }
+  .card2-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      font-weight: lighter;
+  }
+  .card2center {
+      margin-top: 3vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:100%;
+    border: 0;
+  }
+
+/* card3 */
+.airpod
+{
+    text-decoration: none;
+}
+.airpoddiv
+{
+    background-color: #ececee;
+}
+.card3center {
+    margin-top: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height:30vw;
+  border: 0;
+}
+.card3-1
+{
+  text-align: center;
+  padding-top: 0vw;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.card3-1-1
+{
+    text-align: center;
+    margin-top: -5px ;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+     
+}
+.card3-2
+{
+  text-align: center;
+  margin-top: -10px;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+  padding-bottom: 30px;
+  
+  }
+  .card3-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      font-weight: lighter;
+  }
+  /* card-4 */
+  .watch
+{
+    text-decoration: none;
+}
+.watchdiv
+{
+    background-color: #ffffff;
+}
+ .card4-0
+ {
+    text-align: center;
+    padding-top: 1vw;
+    color: #B73A3C;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    font-weight: lighter;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+
+.card4-1
+{
+  text-align: center;
+  padding-top: 0vw;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.card4-1-1
+{
+    text-align: center;
+    padding-top: 0px;
+    color: #B73A3C;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-top: -7px;
+    margin-bottom: 0;
+}
+.card4-1-2
+{
+    text-align: center;
+    margin-top: 0px ;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+     
+}
+.card4-2
+{
+  text-align: center;
+  margin-top: -10px;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+  padding-bottom: 30px;
+  
+  }
+  .card4-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      font-weight: lighter;
+  }
+  .card4center {
+    margin-top: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height:26vw;
+  border: 0;
+}
+/* card 5 */
+.arcade
+{
+    text-decoration: none;
+}
+.arcadediv
+{
+    background-color: #fafafa;
+}
+.card5-1
+{
+  text-align: center;
+  padding-top: 3vw;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.card5-1-1
+{
+    text-align: center;
+    margin-top: -6px ;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+     
+}
+.card5-1-2
+{
+    text-align: center;
+    margin-top: -20px ;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+     
+}
+.card5-2
+{
+  text-align: center;
+  margin-top: -10px;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+  
+  }
+  .card5-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      font-weight: lighter;
+  }
+  .card5center {
+      margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:30vw;
+    border: 0;
+  }
+  /* card-6 */
+  .applecard
+{
+    text-decoration: none;
+}
+.applecarddiv
+{
+    background-color: #fafafa;
+}
+.card6-1
+{
+  text-align: center;
+  padding-top: 3vw;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0;
+ 
+
+}
+.card6-1-1
+{
+    text-align: center;
+    margin-top: -6px ;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+     
+}
+.card6-1-2
+{
+    text-align: center;
+    margin-top: -20px ;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+     
+}
+.card6-2
+{
+  text-align: center;
+  margin-top: -10px;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+  
+  }
+  .card6-2-1
+  {
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      font-weight: lighter;
+  }
+  .card6center {
+      margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:27.9vw;
+    border: 0;
+  }
+  .footer1
+  {
+      background-color: #f5f5f7;
+  }
+  
+  .footer-col{
+      margin:auto;
+      padding: 0;
+  } 
+  .list-footer
+  { margin-top: 5px;
+    padding-top: 5px;
+    list-style-type:none; 
+    font-size: 12px;
+    color: #6D6A6A;
+  }
+  .footer-img
+  {
+      text-decoration: none;
+      color: #6D6A6A;
+  }
+  .footer-img:hover
+  {
+      text-decoration: underline;
+      color: #6D6A6A;
+  }
+.footerToggle
+{
+  font-size: 12px;
+  font-weight: 600;
+  color: #6e6e6e;
+}
+.footer-toggle
+{
+  font-size: 11px;
+  color: #6D6A6A;
+ 
+}
+.footer-anchor{
+  text-decoration: none;
+  color: #6D6A6A;
+}
+.footer-anchor:hover
+{
+  text-decoration: underline;
+  color: #6D6A6A;
+}
+.footernext
+{
+  font-size: 12px;
+  color: #6D6A6A;
+}
+.anchorfoot
+{
+  text-decoration: none;
+  color: #6D6A6A;
+}
+.anchorfoot:hover
+{
+  text-decoration: underline;
+  color: #6D6A6A;
+
+}
+.hr
+{
+  margin-top: -10px;
+
+}
+.foot1{
+  font-size: 13px;
+  color: #6D6A6A;
+}
+.foot2
+{
+  color: #6D6A6A;
+  text-decoration: none;
+}
+.foot2:hover
+{
+  color: #6D6A6A ;
+  text-decoration:underline;
+}
+.foot3
+{
+  font-size: 14px;
+}
+.span1
+{
+  color: lightgrey;
+}
